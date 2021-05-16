@@ -3,3 +3,4 @@ gitの復習
  Git add
  Git commit
  git rm
+ Git diff
